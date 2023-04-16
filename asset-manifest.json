@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ChasingTheCountry_TreasureHunt/static/css/main.0b140e36.css",
+    "main.js": "/ChasingTheCountry_TreasureHunt/static/js/main.e6f9409a.js",
+    "static/media/errorbg.jpg": "/ChasingTheCountry_TreasureHunt/static/media/errorbg.5d0ad779b2806710b328.jpg",
+    "static/media/inst3.jpg": "/ChasingTheCountry_TreasureHunt/static/media/inst3.a011a328c6b1dbd80a99.jpg",
+    "static/media/level2bg.jpg": "/ChasingTheCountry_TreasureHunt/static/media/level2bg.59be43bd30ee4abe5d5a.jpg",
+    "static/media/reached.jpg": "/ChasingTheCountry_TreasureHunt/static/media/reached.0100f5633f24b8aadd5c.jpg",
+    "static/media/level4bg.jpg": "/ChasingTheCountry_TreasureHunt/static/media/level4bg.b33c4cd112e748fa1f6e.jpg",
+    "static/media/welcomebg.jpg": "/ChasingTheCountry_TreasureHunt/static/media/welcomebg.6e526e792f3e49f4324d.jpg",
+    "static/media/inst1.jpg": "/ChasingTheCountry_TreasureHunt/static/media/inst1.a35922190fbc04c26ca7.jpg",
+    "static/media/AkbarOfAgra.jpg": "/ChasingTheCountry_TreasureHunt/static/media/AkbarOfAgra.29c622cce4f500ebb0b1.jpg",
+    "static/media/inst4.jpg": "/ChasingTheCountry_TreasureHunt/static/media/inst4.f9dc0758b9c5e605a555.jpg",
+    "static/media/BegamHazratOfLucknow.jpg": "/ChasingTheCountry_TreasureHunt/static/media/BegamHazratOfLucknow.9954acd342677b6d8288.jpg",
+    "static/media/RaniLaxmiOfJhansi.jpg": "/ChasingTheCountry_TreasureHunt/static/media/RaniLaxmiOfJhansi.cd2bfa4e75542d3188af.jpg",
+    "static/media/level3bg.jpg": "/ChasingTheCountry_TreasureHunt/static/media/level3bg.17143350d361d030f76f.jpg",
+    "static/media/inst6.jpg": "/ChasingTheCountry_TreasureHunt/static/media/inst6.d06ddb6b13f2a78e7629.jpg",
+    "static/media/door1.jpg": "/ChasingTheCountry_TreasureHunt/static/media/door1.2b69470dc47d5d647411.jpg",
+    "static/media/hyderabad.jpg": "/ChasingTheCountry_TreasureHunt/static/media/hyderabad.62a60ddbd8809fa20f4b.jpg",
+    "static/media/inst5.jpeg": "/ChasingTheCountry_TreasureHunt/static/media/inst5.09b9fa81800571fd65cd.jpeg",
+    "static/media/bg5.jpg": "/ChasingTheCountry_TreasureHunt/static/media/bg5.733f5d676869700a0a1d.jpg",
+    "static/media/ins2.jpg": "/ChasingTheCountry_TreasureHunt/static/media/ins2.3bf5dc6ac546a5341052.jpg",
+    "index.html": "/ChasingTheCountry_TreasureHunt/index.html",
+    "main.0b140e36.css.map": "/ChasingTheCountry_TreasureHunt/static/css/main.0b140e36.css.map",
+    "main.e6f9409a.js.map": "/ChasingTheCountry_TreasureHunt/static/js/main.e6f9409a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b140e36.css",
+    "static/js/main.e6f9409a.js"
+  ]
+}
