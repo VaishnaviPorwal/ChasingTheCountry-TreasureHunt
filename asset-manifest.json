@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ChasingTheCountry-TreasureHunt/static/css/main.0632b5b6.css",
-    "main.js": "/ChasingTheCountry-TreasureHunt/static/js/main.a40066af.js",
+    "main.js": "/ChasingTheCountry-TreasureHunt/static/js/main.22adcffb.js",
     "static/media/errorbg.jpg": "/ChasingTheCountry-TreasureHunt/static/media/errorbg.5d0ad779b2806710b328.jpg",
     "static/media/inst3.jpg": "/ChasingTheCountry-TreasureHunt/static/media/inst3.a011a328c6b1dbd80a99.jpg",
     "static/media/level2bg.jpg": "/ChasingTheCountry-TreasureHunt/static/media/level2bg.59be43bd30ee4abe5d5a.jpg",
@@ -22,10 +22,10 @@
     "static/media/ins2.jpg": "/ChasingTheCountry-TreasureHunt/static/media/ins2.3bf5dc6ac546a5341052.jpg",
     "index.html": "/ChasingTheCountry-TreasureHunt/index.html",
     "main.0632b5b6.css.map": "/ChasingTheCountry-TreasureHunt/static/css/main.0632b5b6.css.map",
-    "main.a40066af.js.map": "/ChasingTheCountry-TreasureHunt/static/js/main.a40066af.js.map"
+    "main.22adcffb.js.map": "/ChasingTheCountry-TreasureHunt/static/js/main.22adcffb.js.map"
   },
   "entrypoints": [
     "static/css/main.0632b5b6.css",
-    "static/js/main.a40066af.js"
+    "static/js/main.22adcffb.js"
   ]
 }
